@@ -59,7 +59,7 @@ export default function LandingPage() {
           handle: "@sarah.travels",
           testimonial: "The best almond croissant I’ve ever had.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/croissant-with-coffee-french-croissant-wooden-board-cup-espresso_114579-58937.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/croissant-with-coffee-french-croissant-wooden-board-cup-espresso_114579-58937.jpg?_wi=1",
           imageAlt: "bakery fresh croissant steam coffee",
         },
         {
@@ -75,7 +75,7 @@ export default function LandingPage() {
           handle: "@elena.cozy",
           testimonial: "The coffee alone is worth the trip.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-recipe-book-still-life-concept_23-2149056054.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-recipe-book-still-life-concept_23-2149056054.jpg?_wi=1",
           imageAlt: "bakery fresh croissant steam coffee",
         },
         {
@@ -83,7 +83,7 @@ export default function LandingPage() {
           handle: "@t.bakery.fan",
           testimonial: "An absolute gem in the Hudson Valley.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/iced-coffee-table_1203-2504.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/iced-coffee-table_1203-2504.jpg?_wi=1",
           imageAlt: "bakery fresh croissant steam coffee",
         },
         {
@@ -91,7 +91,7 @@ export default function LandingPage() {
           handle: "@linda.morning",
           testimonial: "Their morning routine is my favorite part of the day.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/view-delicious-appetizing-street-food_23-2151516878.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-delicious-appetizing-street-food_23-2151516878.jpg?_wi=1",
           imageAlt: "bakery fresh croissant steam coffee",
         },
       ]}
@@ -105,7 +105,7 @@ export default function LandingPage() {
           href: "#order",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/croissant-with-coffee-french-croissant-wooden-board-cup-espresso_114579-58937.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/croissant-with-coffee-french-croissant-wooden-board-cup-espresso_114579-58937.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/croissants-with-chocolate-filling-wooden-board_114579-77531.jpg",
@@ -163,7 +163,7 @@ export default function LandingPage() {
           price: "$6.50",
           rating: 5,
           reviewCount: "1.2k",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-recipe-book-still-life-concept_23-2149056054.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-recipe-book-still-life-concept_23-2149056054.jpg?_wi=2",
         },
         {
           id: "2",
@@ -172,7 +172,7 @@ export default function LandingPage() {
           price: "$5.75",
           rating: 5,
           reviewCount: "800+",
-          imageSrc: "http://img.b2bpic.net/free-photo/iced-coffee-table_1203-2504.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/iced-coffee-table_1203-2504.jpg?_wi=2",
         },
         {
           id: "3",
@@ -181,7 +181,7 @@ export default function LandingPage() {
           price: "$7.00",
           rating: 4,
           reviewCount: "400+",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-delicious-appetizing-street-food_23-2151516878.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-delicious-appetizing-street-food_23-2151516878.jpg?_wi=2",
         },
         {
           id: "4",
